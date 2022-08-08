@@ -5,3 +5,6 @@ Reto 1 libro de js semanal completo con sus practicas.
 
 `números 64 bits, textos (strings) 16 bits(\=caracter de escape), Booleanos, y valores indefinidos.
 Tales valores son creados escribiendo su nombre (true, null) o valor (13, "abc"). Puedes combinar y transformar valores con operadores. Vimos operadores binarios para aritmética (+, -, *, /, y %), concatenación de strings (+), comparaciones (==, !=, ===, !==, <, >, <=, >=), y lógica (&&, ||), así también como varios otros operadores unarios (- para negar un número, ! para negar lógicamente, y typeof para saber el valor de un tipo) y un operador ternario (?:) para elegir uno de dos valores basándose en un tercer valor.`
+
+### Diccionario
+Cuando un operador es aplicado al tipo de valor “incorrecto”, JavaScript silenciosamente convertirá ese valor al tipo que necesita, utilizando una serie de reglas que frecuentemente no dan el resultado que quisieras o esperarías. Esto es llamado **coercion de tipo**
